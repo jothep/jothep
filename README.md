@@ -1,12 +1,12 @@
-### 👋 Hi, I'm Xiang Zhu
+### Hi, I'm Xiang Zhu
 
 I am a seasoned Cloud and DevOps Engineer based in Auckland, New Zealand. I am passionate about architecting and managing scalable, resilient cloud infrastructure for global clients, leveraging modern Site Reliability Engineering (SRE) principles.
 
 My professional background spans the finance, automotive, and technology sectors, where I have successfully delivered complex projects involving cloud platform development, DevOps implementation, and SRE practices for globally recognized clients, including **Daimler AG**, **ICBC**, and the **Singapore Government's Health Promotion Board**.
 
-  - 🔭 I am currently pursuing a **Master of Software Engineering (NZQF Level 9)** at Yoobee Colleges, focusing on advanced topics such as Professional Software Engineering and Quantum Computing.
-  - 🌱 I am deeply passionate about cloud-native technologies, containerization, and automation, and I am always exploring best practices to enhance system efficiency and reliability.
-  - 📫 You can reach me by email at: **shelldry325@gmail.com**
+  - I am currently pursuing a **Master of Software Engineering (NZQF Level 9)** at Yoobee Colleges, focusing on advanced topics such as Professional Software Engineering and Quantum Computing.
+  - I am deeply passionate about cloud-native technologies, containerization, and automation, and I am always exploring best practices to enhance system efficiency and reliability.
+  - You can reach me by email at: **shelldry325@gmail.com**
 
 -----
 
@@ -16,13 +16,13 @@ I possess deep expertise in cloud platforms, containerization (Docker, Kubernete
 
 | Category | Technologies |
 | :--- | :--- |
-| ☁️ **Cloud Platforms** | AWS, Azure, Ali cloud |
-| 📦 **Containerization & Orchestration** | Docker, Kubernetes, Openshift |
-| ⚙️ **CI/CD & Automation** | Jenkins, Github Actions, AWS Pipeline, GoCD, Ansible, Terraform, Salt |
-| 📊 **Monitoring & Logging** | Prometheus, ISTIO, Grafana, Elasticsearch, Fluentd, Kibana, Filebeat |
-| 💻 **Programming & Scripting** | Python, Golang, Shell Script |
-|  virtualization | KVM, Openstack, VMware |
-| 💿 **Operating Systems** | Linux (CentOS, Ubuntu), Windows Server |
+|  **Cloud Platforms** | AWS, Azure, Ali cloud |
+|  **Containerization & Orchestration** | Docker, Kubernetes, Openshift |
+|  **CI/CD & Automation** | Jenkins, Github Actions, AWS Pipeline, GoCD, Ansible, Terraform, Salt |
+|  **Monitoring & Logging** | Prometheus, ISTIO, Grafana, Elasticsearch, Fluentd, Kibana, Filebeat |
+|  **Programming & Scripting** | Python, Golang, Shell Script |
+|  **virtualization** | KVM, Openstack, VMware |
+|  **Operating Systems** | Linux (CentOS, Ubuntu), Windows Server |
 
 -----
 
