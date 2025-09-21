@@ -1,6 +1,6 @@
 ### Hi, I'm Xiang Zhu
 
-I am a seasoned Cloud and DevOps Engineer based in Auckland, New Zealand. I am passionate about architecting and managing scalable, resilient cloud infrastructure for global clients, leveraging modern Site Reliability Engineering (SRE) principles.
+A seasoned Cloud and DevOps Engineer with extensive experience delivering resilient cloud solutions for international enterprises. Now based in Auckland, New Zealand, I am seeking to bring my global expertise and passion for SRE to a challenging new role within the local tech community.
 
 My professional background spans the finance, automotive, and technology sectors, where I have successfully delivered complex projects involving cloud platform development, DevOps implementation, and SRE practices for globally recognized clients, including **Daimler AG**, **ICBC**, and the **Singapore Government's Health Promotion Board**.
 
