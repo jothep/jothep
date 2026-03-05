@@ -1,12 +1,14 @@
-### Hi, I'm Xiang Zhu
+### Hi, I am Xiang Zhu.
 
-A seasoned Cloud and DevOps Engineer with extensive experience delivering resilient cloud solutions for international enterprises. Now based in Auckland, New Zealand, I am seeking to bring my global expertise and passion for SRE to a challenging new role within the local tech community.
+I am a Cloud and DevOps Engineer with over 10 years of experience architecting scalable infrastructure for global enterprises, including Daimler AG, ICBC, and the Singapore Government.
 
-My professional background spans the finance, automotive, and technology sectors, where I have successfully delivered complex projects involving cloud platform development, DevOps implementation, and SRE practices for globally recognized clients, including **Daimler AG**, **ICBC**, and the **Singapore Government's Health Promotion Board**.
+My expertise lies deeply in Kubernetes, Azure, AWS, and Terraform, with a strong focus on Site Reliability Engineering principles and GitOps continuous delivery. Over my career, I have successfully driven full infrastructure rebuilds, complex multi-cloud deployments, and large-scale application migrations.
 
-  - I am currently pursuing a **Master of Software Engineering (NZQF Level 9)** at Yoobee Colleges, focusing on advanced topics such as Professional Software Engineering and Quantum Computing.
-  - I am deeply passionate about cloud-native technologies, containerization, and automation, and I am always exploring best practices to enhance system efficiency and reliability.
-  - You can reach me by email at: **shelldry325@gmail.com**
+Currently based in Auckland pursuing a Master of Software Engineering, I combine battle-tested consultancy experience with modern engineering practices. My recent technical focus explores the intersection of AI and DevOps, specifically applying LLM-driven tooling to further enhance infrastructure automation and operational intelligence.
+
+You can reach me via:
+Email: **shelldry325@gmail.com**
+LinkedIn: **https://www.linkedin.com/in/Xiang-Zhu-DevOps**
 
 -----
 
