@@ -18,7 +18,7 @@ I possess deep expertise in cloud platforms, containerization, and CI/CD automat
 
 | Category | Technologies |
 | --- | --- |
-| **Cloud Platforms** | AWS, Azure, Alibaba Cloud |
+| **Cloud Platforms** | AWS, Azure |
 | **Containerization & Orchestration** | Docker, Kubernetes, OpenShift |
 | **CI/CD & Automation** | Jenkins, GitHub Actions, AWS Pipeline, GoCD, Ansible, Terraform, Salt |
 | **Monitoring & Logging** | Prometheus, Istio, Grafana, Elasticsearch, Fluentd, Kibana, Filebeat |
