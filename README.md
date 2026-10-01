@@ -1,48 +1,49 @@
-### Hi, I am Xiang Zhu.
+# Hi, I'm Xiang Zhu
 
-I am a Cloud and DevOps Engineer with over 10 years of experience architecting scalable infrastructure for global enterprises, including Daimler AG, ICBC, and the Singapore Government.
+**Cloud & DevOps Engineer · Auckland, New Zealand**
 
-My expertise lies deeply in Kubernetes, Azure, AWS, and Terraform, with a strong focus on Site Reliability Engineering principles and GitOps continuous delivery. Over my career, I have successfully driven full infrastructure rebuilds, complex multi-cloud deployments, and large-scale application migrations.
+[**Engineering portfolio →**](https://jothep.github.io/) · [LinkedIn](https://www.linkedin.com/in/Xiang-Zhu-DevOps) · [Medium](https://medium.com/@shelldry325) · [Email](mailto:shelldry325@gmail.com)
 
-Currently based in Auckland pursuing a Master of Software Engineering, I combine battle-tested consultancy experience with modern engineering practices. My recent technical focus explores the intersection of AI and DevOps, specifically applying LLM-driven tooling to further enhance infrastructure automation and operational intelligence.
+My background spans 16 years in enterprise IT (2008–2024), including infrastructure consulting, container platforms, delivery automation and systems operations. I worked as a **Senior Consultant at Thoughtworks (2018–2024)** and previously as an **Infrastructure Consultant at Accenture (2016–2017)**. I completed a **Master of Software Engineering at Yoobee Colleges** in July 2026.
 
-You can reach me via:
-Email: **[shelldry325@gmail.com](mailto:shelldry325@gmail.com)**
-LinkedIn: **[https://www.linkedin.com/in/Xiang-Zhu-DevOps](https://www.linkedin.com/in/Xiang-Zhu-DevOps)**
+## Recent engineering practice
 
----
+### Story Filler — infrastructure choices and verified delivery
 
-### Core Competencies
+A personal learning application that moved from local Compose and Kubernetes environments to GitHub Pages, Cloud Run, Neon and Cloud Storage. The case study explains the architecture choices and operating trade-offs, supported by configuration, pipeline records and dated deployment checks.
 
-I possess deep expertise in cloud platforms, containerization, and CI/CD automation.
+- **Architecture:** compare the local platform and managed cloud approaches, including cost and operational responsibilities.
+- **Delivery:** inspect GitHub Actions workflows, Terraform configuration and release-verification evidence.
+- **AI-assisted engineering:** see how I use Codex for investigation and implementation, then verify the results against source, tests and deployed behaviour.
 
-| Category | Technologies |
+[Read the case study](https://jothep.github.io/projects/story-filler/) · [Browse the source](https://github.com/jothep/story-filler) · [Try the application](https://jothep.github.io/story-filler/)
+
+This work complements my enterprise experience. The portfolio distinguishes implemented configuration, dated verification and historical local-lab work.
+
+## Selected enterprise experience
+
+At **Thoughtworks**:
+
+- **Singapore Health Promotion Board:** migrated environments into isolated AKS clusters and rebuilt Bamboo pipelines using GitLab CI/CD.
+- **Daimler AG:** migrated credential management to high-availability HashiCorp Vault on OpenShift and implemented GoCD Pipeline-as-Code.
+- **China Merchants Bank:** contributed to the design of an internal OpenShift platform, container-network integration and standardised delivery pipelines.
+- **SadaPay:** supported AWS infrastructure, Terraform provisioning and disaster recovery, with ArgoCD and GitHub Actions for delivery.
+
+At **Accenture**, I contributed to **Huawei HiCloud** container platform design, Kubernetes scheduling research and knowledge transfer.
+
+## Core technologies
+
+| Area | Technologies |
 | --- | --- |
-| **Cloud Platforms** | AWS, Azure |
-| **Containerization & Orchestration** | Docker, Kubernetes, OpenShift |
-| **CI/CD & Automation** | Jenkins, GitHub Actions, AWS Pipeline, GoCD, Ansible, Terraform, Salt |
-| **Monitoring & Logging** | Prometheus, Istio, Grafana, Elasticsearch, Fluentd, Kibana, Filebeat |
-| **Programming & Scripting** | Python, Golang, Shell Script |
-| **Virtualization** | KVM, OpenStack, VMware |
-| **Operating Systems** | Linux CentOS, Ubuntu, Windows Server |
+| Cloud & container platforms | AWS, Azure, Kubernetes, OpenShift, Docker, Helm |
+| Infrastructure & delivery automation | Terraform, Ansible, GitLab CI/CD, GitHub Actions, Jenkins, GoCD, ArgoCD |
+| Operations & security | Linux, Prometheus, Grafana, ELK, HashiCorp Vault |
+| Scripting | Python, Bash |
 
----
+## Education & certifications
 
-### Professional Certifications
+- **Master of Software Engineering**, Yoobee Colleges — conferred July 2026.
+- **Certified Kubernetes Administrator (CKA)**, CNCF — earned 2019.
+- **Oracle Database 11g Administrator Certified Professional (OCP)**, Oracle — earned 2013.
 
-| Certificate Name | Issuing Authority |
-| --- | --- |
-| **Certified Kubernetes Administrator CKA** | Cloud Native Computing Foundation CNCF |
-| **Oracle 11g Certified Professional OCP** | Oracle |
-
----
-
-### Project Highlights
-
-Throughout my career, I have led and architected several enterprise-grade infrastructure projects across various sectors.
-
-* **Health Promotion Board, Singapore**: Drove cloud platform development and implemented SRE practices to ensure the reliability of critical public health systems.
-* **Daimler AG**: Delivered DevOps implementation solutions for the global automotive giant, optimizing their R&D workflows.
-* **Industrial and Commercial Bank of China ICBC**: Played a key role in multiple phases of the DevOps collaboration platform and containerization initiatives to modernize their tech architecture.
-* **Huawei HiCloud**: Served as a container technology consultant, contributing to the solution design and implementation of the public cloud container cluster platform.
-* **Sadapay**: Architected and built the infrastructure for one of Pakistan's leading digital banks, enabling their FinTech innovation.
+For architecture decisions, implementation evidence and selected articles, visit [**jothep.github.io**](https://jothep.github.io/).
